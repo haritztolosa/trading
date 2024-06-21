@@ -1,4 +1,3 @@
-# trading
-trading research
+# TRADING
+trading research repository
 
-first commit !
